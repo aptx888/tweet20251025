@@ -4,16 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3f1c0e-fa89-4f2e-9b29-f1081339ee6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TwitterWebRetweetCountScraper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scraper.py" afterDir="false" />
+    <list default="true" id="7e3f1c0e-fa89-4f2e-9b29-f1081339ee6c" name="Changes" comment="first commit,can load webpage but has error">
+      <change afterPath="$PROJECT_DIR$/pandaTestExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printText25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +51,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="34YH6V2rrqRvMywuJgSU2AleyCD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,6 +68,33 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.data_handler.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.pandaTestExcel.executor": "Run",
+    "Python.printTest10.executor": "Run",
+    "Python.printTest11.executor": "Run",
+    "Python.printTest12.executor": "Run",
+    "Python.printTest13.executor": "Run",
+    "Python.printTest14.executor": "Run",
+    "Python.printTest15.executor": "Run",
+    "Python.printTest16.executor": "Run",
+    "Python.printTest17.executor": "Run",
+    "Python.printTest18.executor": "Run",
+    "Python.printTest19.executor": "Run",
+    "Python.printTest2.executor": "Run",
+    "Python.printTest20.executor": "Run",
+    "Python.printTest21.executor": "Run",
+    "Python.printTest22.executor": "Run",
+    "Python.printTest23.executor": "Run",
+    "Python.printTest24.executor": "Run",
+    "Python.printTest26.executor": "Run",
+    "Python.printTest3.executor": "Run",
+    "Python.printTest4.executor": "Run",
+    "Python.printTest5.executor": "Run",
+    "Python.printTest6.executor": "Run",
+    "Python.printTest7.executor": "Run",
+    "Python.printTest8.executor": "Run",
+    "Python.printTest9.executor": "Run",
+    "Python.printText25.executor": "Run",
+    "Python.print_elements.executor": "Run",
     "Python.scraper.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -52,110 +103,6 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="TwitterWebRetweetCountScraper" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="TwitterWebRetweetCountScraper" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="TwitterWebRetweetCountScraper" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="TwitterWebRetweetCountScraper" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="TwitterWebRetweetCountScraper" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="TwitterWebRetweetCountScraper" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -171,6 +118,30 @@
       <option name="presentableId" value="Default" />
       <updated>1761383411232</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit,can load webpage but has error">
+      <option name="closed" value="true" />
+      <created>1761387643125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761387643125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit,can load webpage but has error" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit,can load webpage but has error" />
   </component>
 </project>

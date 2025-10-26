@@ -14,8 +14,8 @@ def start_driver():
     return driver
 
 
-# 提取时间戳和转发数
-def get_retweet_count_and_timestamp(tweet_url):
+# 打印页面中所有的 div 和 span 元素
+def print_elements(tweet_url):
     # 启动浏览器并打开页面
     driver = start_driver()
 
@@ -26,30 +26,27 @@ def get_retweet_count_and_timestamp(tweet_url):
     time.sleep(5)  # 等待5秒钟确保页面完全加载
 
     try:
-        # 获取时间戳
-        timestamps = driver.find_elements(By.CSS_SELECTOR, 'time')
-        tweet_times = [ts.get_attribute('datetime') for ts in timestamps]
+        # 打印所有 div 元素的文本
+        div_elements = driver.find_elements(By.TAG_NAME, 'div')
+        print("=== 打印所有 div 元素的文本 ===")
+        for div in div_elements:
+            print(div.text)
 
-        # 获取转发数
-        retweet_elements = driver.find_elements(By.XPATH, '//div[@data-testid="retweet"]//span')
-
-        if retweet_elements:
-            retweet_count = retweet_elements[0].text
-        else:
-            retweet_count = "无法获取转发数"
-
-        # 输出提取的信息
-        if tweet_times:
-            print(f"时间戳: {tweet_times[0]} 转发数: {retweet_count}")
-        else:
-            print("未能获取到时间戳")
-
-        return tweet_times[0] if tweet_times else "未知时间戳", retweet_count
+        # 打印所有 span 元素的文本
+        span_elements = driver.find_elements(By.TAG_NAME, 'span')
+        print("=== 打印所有 span 元素的文本 ===")
+        for span in span_elements:
+            print(span.text)
 
     except Exception as e:
         print(f"发生错误: {e}")
-        return "未知时间戳", "无法获取转发数"
 
     finally:
         # 关闭浏览器
         driver.quit()
+
+
+# 请替换成你要检查的推特推文的 URL
+if __name__ == "__main__":
+    tweet_url = "https://x.com/dramaDIVE_ytv/status/1981567801405161653"  # 在这里输入你要检查的推文链接
+    print_elements(tweet_url)
