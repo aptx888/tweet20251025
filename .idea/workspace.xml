@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3f1c0e-fa89-4f2e-9b29-f1081339ee6c" name="Changes" comment="2025.10.26commit,can save in excel and draw" />
+    <list default="true" id="7e3f1c0e-fa89-4f2e-9b29-f1081339ee6c" name="Changes" comment="2025.10.26commit,can save in excel and draw">
+      <change afterPath="$PROJECT_DIR$/20251027memo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printTest27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aptx888&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aptx888/tweet20251025.git&quot;,
+    &quot;accountId&quot;: &quot;4223cfa3-d48f-437a-8057-1712f9f3c2db&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -31,47 +48,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.data_handler.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pandaTestExcel.executor": "Run",
-    "Python.printTest10.executor": "Run",
-    "Python.printTest11.executor": "Run",
-    "Python.printTest12.executor": "Run",
-    "Python.printTest13.executor": "Run",
-    "Python.printTest14.executor": "Run",
-    "Python.printTest15.executor": "Run",
-    "Python.printTest16.executor": "Run",
-    "Python.printTest17.executor": "Run",
-    "Python.printTest18.executor": "Run",
-    "Python.printTest19.executor": "Run",
-    "Python.printTest2.executor": "Run",
-    "Python.printTest20.executor": "Run",
-    "Python.printTest21.executor": "Run",
-    "Python.printTest22.executor": "Run",
-    "Python.printTest23.executor": "Run",
-    "Python.printTest24.executor": "Run",
-    "Python.printTest26.executor": "Run",
-    "Python.printTest3.executor": "Run",
-    "Python.printTest4.executor": "Run",
-    "Python.printTest5.executor": "Run",
-    "Python.printTest6.executor": "Run",
-    "Python.printTest7.executor": "Run",
-    "Python.printTest8.executor": "Run",
-    "Python.printTest9.executor": "Run",
-    "Python.printText25.executor": "Run",
-    "Python.print_elements.executor": "Run",
-    "Python.scraper.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.data_handler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandaTestExcel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printText25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scraper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761486561304</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2025.10.26commit,can save in excel and draw">
+      <option name="closed" value="true" />
+      <created>1761486862907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761486862907</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
