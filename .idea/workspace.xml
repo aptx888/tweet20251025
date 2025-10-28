@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e3f1c0e-fa89-4f2e-9b29-f1081339ee6c" name="Changes" comment="2025.10.27commit,memo">
-      <change afterPath="$PROJECT_DIR$/pic.html" afterDir="false" />
+    <list default="true" id="7e3f1c0e-fa89-4f2e-9b29-f1081339ee6c" name="Changes" comment="2025.10.27commit,趋势图">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/output.xlsx" afterDir="false" />
     </list>
@@ -48,49 +47,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.data_handler.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pandaTestExcel.executor": "Run",
-    "Python.printTest10.executor": "Run",
-    "Python.printTest11.executor": "Run",
-    "Python.printTest12.executor": "Run",
-    "Python.printTest13.executor": "Run",
-    "Python.printTest14.executor": "Run",
-    "Python.printTest15.executor": "Run",
-    "Python.printTest16.executor": "Run",
-    "Python.printTest17.executor": "Run",
-    "Python.printTest18.executor": "Run",
-    "Python.printTest19.executor": "Run",
-    "Python.printTest2.executor": "Run",
-    "Python.printTest20.executor": "Run",
-    "Python.printTest21.executor": "Run",
-    "Python.printTest22.executor": "Run",
-    "Python.printTest23.executor": "Run",
-    "Python.printTest24.executor": "Run",
-    "Python.printTest26.executor": "Run",
-    "Python.printTest27.executor": "Run",
-    "Python.printTest3.executor": "Run",
-    "Python.printTest4.executor": "Run",
-    "Python.printTest5.executor": "Run",
-    "Python.printTest6.executor": "Run",
-    "Python.printTest7.executor": "Run",
-    "Python.printTest8.executor": "Run",
-    "Python.printTest9.executor": "Run",
-    "Python.printText25.executor": "Run",
-    "Python.print_elements.executor": "Run",
-    "Python.scraper.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.data_handler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandaTestExcel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printTest9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printText25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_elements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scraper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -138,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761576167217</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2025.10.27commit,趋势图">
+      <option name="closed" value="true" />
+      <created>1761577129710</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761577129710</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2025.10.27commit,趋势图">
+      <option name="closed" value="true" />
+      <created>1761577157375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761577157375</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +171,7 @@
     <MESSAGE value="first commit,can load webpage but has error" />
     <MESSAGE value="2025.10.26commit,can save in excel and draw" />
     <MESSAGE value="2025.10.27commit,memo" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025.10.27commit,memo" />
+    <MESSAGE value="2025.10.27commit,趋势图" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025.10.27commit,趋势图" />
   </component>
 </project>
